@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="760" viewBox="0 0 1200 760" role="img" aria-label="Atlas commerce preview">
+  <defs><linearGradient id="a" x1="0" x2="1"><stop stop-color="#f8d66d"/><stop offset="1" stop-color="#5ee7ff"/></linearGradient><filter id="b"><feGaussianBlur stdDeviation="34"/></filter></defs>
+  <rect width="1200" height="760" fill="#061019"/>
+  <circle cx="260" cy="220" r="240" fill="#f8d66d" opacity=".18" filter="url(#b)"/>
+  <circle cx="910" cy="540" r="260" fill="#5ee7ff" opacity=".18" filter="url(#b)"/>
+  <rect x="120" y="110" width="960" height="540" rx="34" fill="#0c1222"/>
+  <g fill="none" stroke="url(#a)" stroke-width="4" opacity=".75"><rect x="180" y="180" width="220" height="320" rx="26"/><rect x="480" y="180" width="220" height="320" rx="26"/><rect x="780" y="180" width="220" height="320" rx="26"/></g>
+  <g fill="#fff"><rect x="205" y="525" width="160" height="20" rx="10" opacity=".8"/><rect x="505" y="525" width="160" height="20" rx="10" opacity=".8"/><rect x="805" y="525" width="160" height="20" rx="10" opacity=".8"/></g>
+</svg>

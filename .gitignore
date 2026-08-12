@@ -1,0 +1,10 @@
+node_modules/
+.next/
+dist/
+.npm-cache/
+.wrangler/
+.chrome-*/
+qa-*.png
+*.tsbuildinfo
+.env*
+!.env.example
