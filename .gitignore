@@ -3,6 +3,9 @@ node_modules/
 dist/
 .npm-cache/
 .wrangler/
+.vinext/
+.site-package/
+portfolio-site.tar.gz
 .chrome-*/
 qa-*.png
 *.tsbuildinfo

@@ -1,15 +1,17 @@
 {
-  "name": "alex-morgan-cinematic-portfolio",
+  "name": "marcell-matthew-loemanto-portfolio",
   "version": "1.0.0",
   "private": true,
   "type": "module",
   "scripts": {
-    "dev": "vinext dev",
-    "build": "vinext build",
-    "start": "vinext start",
+    "dev": "next dev --hostname 127.0.0.1",
+    "build": "next build",
+    "start": "next start",
     "build:next": "next build",
-    "lint": "eslint .",
-    "typecheck": "tsc --noEmit"
+    "lint": "eslint --config eslint.config.mjs src/app src/components/story src/data/*.ts next.config.ts tailwind.config.ts",
+    "typecheck": "tsc --noEmit",
+    "dev:sites": "vinext dev --config vite.config.ts",
+    "build:sites": "vinext build --config vite.config.ts"
   },
   "dependencies": {
     "framer-motion": "12.38.0",
